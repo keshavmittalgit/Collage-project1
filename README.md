@@ -79,13 +79,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, please reach out to me at keshav.mittal@example.com.
+For any inquiries or feedback, please reach out to me at keshavmittal7974@gmail.com.
 
 ---
 
 **Keshav Mittal**  
 *Developer of Link Saver*  
-[LinkedIn](https://linkedin.com/in/keshavmittal) | [GitHub](https://github.com/keshavmittal)
+[LinkedIn](https://linkedin.com/in/keshav-mittal-aa40a523a) | [GitHub](https://github.com/keshavmittalgit)
 
 ---
 
