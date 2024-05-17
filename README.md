@@ -10,11 +10,16 @@
 - **User-Friendly Interface:** Simple and intuitive interface for seamless integration with your Chrome browser.
 - **Lightweight:** Minimalistic design ensures the extension is lightweight and does not slow down your browsing experience.
 
+
 ## Installation
 
-1. Download the Link Saver extension from the [Chrome Web Store](#).
-2. Click "Add to Chrome" to install the extension.
-3. Once installed, click the Link Saver icon in your browser toolbar to start using the extension.
+### Local Installation for Development
+
+1. Download the `link-saver` folder from the repository.
+2. Open Chrome and navigate to `chrome://extensions/`.
+3. Enable "Developer mode" using the toggle in the upper-right corner.
+4. Click "Load unpacked" and select the `link-saver` directory from your downloaded folder.
+5. Once loaded, the Link Saver icon will appear in your Chrome toolbar. Click the icon to start using the extension.
 
 ## Usage
 
